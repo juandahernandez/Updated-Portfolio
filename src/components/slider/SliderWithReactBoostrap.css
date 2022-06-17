@@ -1,0 +1,43 @@
+.container-react {
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 200px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.container-react h3 {
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.container {
+    width: 40%!important;
+   
+}
+
+.container img {
+    border-radius: 5%;
+    cursor: pointer;
+    width: 70%!important;
+    height: 400px;
+    margin: auto;
+}
+
+.container button {
+    font-weight: 700;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.container button:hover {
+    background: #15f4ee;
+}
+
